@@ -16,6 +16,20 @@ class Scraper
     end
   end
   
+  def get_page #responsible for using nokogiri and open-uri to grab the entire HTML document from the web page
+    
+  end
+  
+  def get_courses #
+  end
+  
+  def make_courses
+  end
+  
+  def print_courses
+end
+
+
 end
 
 
