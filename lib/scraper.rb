@@ -20,10 +20,10 @@ class Scraper
     
   end
   
-  def get_courses #
+  def get_courses #responsible for using a CSS selector to grab all of the HTML elements that contain a course.
   end
   
-  def make_courses
+  def make_courses #
   end
   
   def print_courses
