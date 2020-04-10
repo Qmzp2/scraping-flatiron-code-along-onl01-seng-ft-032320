@@ -23,12 +23,10 @@ class Scraper
   def get_courses #responsible for using a CSS selector to grab all of the HTML elements that contain a course.
   end
   
-  def make_courses #
+  def make_courses #responsible for actually instantiating Course objects and giving each course object the correct title, schedule and description attribute that we scraped from the page.
   end
   
-  def print_courses
-end
-
+ 
 
 end
 
