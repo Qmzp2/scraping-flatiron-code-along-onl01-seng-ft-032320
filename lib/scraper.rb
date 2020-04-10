@@ -18,4 +18,4 @@ class Scraper
     #end
   end
  
-end
+endq
